@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:708722643007:function:c06357c1-0a8e-49c6-b410-d869751a7da8:Release_0"
+        },
+        "interfaces": [],
+        "regions": {
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:708722643007:function:c06357c1-0a8e-49c6-b410-d869751a7da8:Release_0"
+            }
+          },
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:708722643007:function:c06357c1-0a8e-49c6-b410-d869751a7da8:Release_0"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:708722643007:function:c06357c1-0a8e-49c6-b410-d869751a7da8:Release_0"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-IN": {
+          "name": "SmartHome"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
